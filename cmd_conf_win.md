@@ -44,10 +44,10 @@ Classé grossièrement du plus utile au moins utile en terme de configuration
 ou encore même un bon vieux ```Ctrl``` + ```Shift``` + ```Échap```
 
 ### Outil d'administration (un peu tout)
-```	control admintools```
+```control admintools```
 
 ### Programmes et fonctionnalités
-```	appwiz.cpl```
+```appwiz.cpl```
 
 ### Nettoyage de disque
 ```cleanmgr```
