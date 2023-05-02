@@ -31,11 +31,11 @@ Classé grossièrement du plus utile au moins utile en terme de configuration
 ```wf.msc```
 
 ### Pare-feu Windows Defender
-```	firewall.cpl```
+```firewall.cpl```
 
 évident mais présent
 
-````powershell``` et ```cmd```
+```powershell``` et ```cmd```
 
 ## Gestion de l'ordinateur
 
